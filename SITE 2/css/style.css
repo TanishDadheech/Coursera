@@ -1,0 +1,21 @@
+       *{
+			box-sizing: border-box;
+		    text-align: center;
+		    font-family: verdana,tahoma,sans-sarif;
+        }
+
+		body{
+			background-color: #B22222;
+			margin: 0px;
+            font-weight: bold;
+            font-size: 15px;
+			padding: 0px;
+            color: black;
+		}
+       #header-nav{
+        background: white;
+        font-size: 30px;
+        border-radius: 0;
+        border: 0;
+       }
+       
